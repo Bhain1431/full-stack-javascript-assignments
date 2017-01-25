@@ -14,6 +14,8 @@ console.log(whatup);
 export var message = 'world';
 //3
 export let greeting = 'hello';
+
+export const saying = ""
 //4
 //can't rename a const.
 
