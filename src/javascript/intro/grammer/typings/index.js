@@ -39,7 +39,6 @@ var symObj = Object(sym);  *///
 
 //A Symbol is a unique and immutable primitive value and may be used as the key of an Object property (see below). In some programming languages, Symbols are called atoms.,
 
-
-
-
+SimpleDateFormat formatter = new SimpleDateFormat(format);
+return formatter.parse(date);
 
