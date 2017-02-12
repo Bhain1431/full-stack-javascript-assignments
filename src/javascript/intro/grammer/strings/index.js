@@ -16,9 +16,10 @@ export const characterAt = greeting[4];
 
 export const greetingArray =  .split("greeting");
 
-export const begins = (str, char) => { return(char, ...)};
+export const begins = (str, char) => { return(str.charAt(0)};
 
-export const beginsInsensitive = (str, char) => { return(char, ...)};
+export const beginsInsensitive = (str, char) => { return(charAt(0)};
+
 
 
 
